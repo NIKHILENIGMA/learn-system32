@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "feature-planner": {
+      "source": "nikhilenigma/skills",
+      "sourceType": "github",
+      "skillPath": "skills/feature-planner/SKILL.md",
+      "computedHash": "2878ee7b0e52274b20ab73dc219ad844d109352e503b3f2179cd32b0d91bdef3"
+    },
+    "product-planner": {
+      "source": "nikhilenigma/skills",
+      "sourceType": "github",
+      "skillPath": "skills/product-planner/SKILL.md",
+      "computedHash": "1dfe5c8e0560bc06a3e0370ec7115a273248b45b03cb0cb4246e630b29f98c5b"
+    }
+  }
+}
